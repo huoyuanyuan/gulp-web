@@ -1,1 +1,13 @@
+aspnet_client/
+web.config
+bak/
+.svn/
+.idea/
 node_modules/
+test/
+*.rar
+*.7z
+.cache/
+*.conf
+.project
+.DS_Store

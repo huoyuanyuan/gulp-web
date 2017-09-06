@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["$","a","b","console","log"],"mappings":";;AAAAA,EAAE,YAAU;AACX,KAAIC,IAAI,cAAR;AACA,KAAMC,IAAI,cAAV;AACAC,SAAQC,GAAR,CAAYH,CAAZ,EAAcC,CAAd;AACA,CAJD","file":"index.js","sourcesContent":["$(function(){\r\n\tlet a = \"Hello World!\";\r\n\tconst b = \"I am a const\"\r\n\tconsole.log(a,b)\r\n})"]}
